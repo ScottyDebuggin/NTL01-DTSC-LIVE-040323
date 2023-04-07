@@ -3,7 +3,7 @@
 ### Written Instructions to Connect to This Repository:
 
 |--------
-(EvenMoreSo_Profoundly_MeaningfulText.sh)
+(light mode attracts bugs.sql)
 |------------
 
 1. FORK this repository, creating a copy on your own GitHub account
