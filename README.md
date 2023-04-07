@@ -3,7 +3,7 @@
 ### Written Instructions to Connect to This Repository:
 
 |--------
-(Profoundly_MeaningfulText.for)
+(EvenMoreSo_Profoundly_MeaningfulText.sh)
 |------------
 
 1. FORK this repository, creating a copy on your own GitHub account
